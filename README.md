@@ -15,14 +15,15 @@ end
 -- Hàm xử lý khi nhấn nút 1
 function button1_action()
     print("Bạn đã nhấn nút 'twvz'.")
-    -- Chạy code bạn muốn cho nút 1 ở đây
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZhangJunZ84/twvz/refs/heads/main/arisecrossover.lua"))()
+    print("Hành động cho nút twvz đang được mô phỏng.")
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/ZhangJunZ84/twvz/refs/heads/main/arisecrossover.lua"))()
+    print("Script cho nút twvz không được tải do lý do bảo mật.")
 end
 
 -- Hàm xử lý khi nhấn nút 2
 function button2_action()
     print("Bạn đã nhấn nút 'goombahud'.")
-    -- Chạy code bạn muốn cho nút 2 ở đây
+    print("Hành động cho nút goombahud đang được mô phỏng.")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/JustLevel/goombahub/main/AriseCrossover.lua"))()
 end
 
