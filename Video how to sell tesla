@@ -1,0 +1,3 @@
+Not my script 
+Script 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XUANVNPRO/XuanVPHUB/refs/heads/main/XuanVPPHUB.lua.txt"))()
